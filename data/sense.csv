@@ -1,2 +1,13 @@
-,Comparison.Concession,Comparison.Contrast,Contingency.Cause.Reason,Contingency.Cause.Result,EntRel,Expansion.Alternative.Chosen alternative,Expansion.Conjunction,Expansion.Instantiation,Expansion.Restatement,Temporal.Asynchronous.Precedence,Temporal.Asynchronous.Succession,Temporal.Synchrony
-count,5,29,40,22,108,4,87,4,108,4,2,12
+,conn,count
+Comparison.Concession,"although, nevertheless, when",5
+Comparison.Contrast,"while, however, but, whereas, yet, in contrast, by comparison",29
+Contingency.Cause.Reason,because,40
+Contingency.Cause.Result,"thus, as a result",22
+EntRel,[],108
+Expansion.Alternative.Chosen alternative,instead,4
+Expansion.Conjunction,"and, also, in turn, additionally, furthermore, finally, moreover, in addition",87
+Expansion.Instantiation,"for instance, for example",4
+Expansion.Restatement,"much as, in particular, overall",108
+Temporal.Asynchronous.Precedence,"before, then, thereafter",4
+Temporal.Asynchronous.Succession,"after, once, previously",2
+Temporal.Synchrony,"when, as",12
