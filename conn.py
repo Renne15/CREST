@@ -7,7 +7,6 @@ with open(filePath_json, 'r') as readjson:
     data_json = {i : json.loads(line) for i, line in enumerate(readjson)}
 
 conn = {}
-#conn_sense = {}
 sense = {}
 
 for line, value in data_json.items():

@@ -1,0 +1,358 @@
+By the 4-cell stage of C. elegans embryogenesis, a ventral blastomere, called EMS, is already committed to producing pharyngeal and intestinal cell types.
+Recessive, maternal-effect mutations in the gene skn-1 prevent EMS from producing both pharyngeal and intestinal cells.
+In skn-1 mutant embryos, EMS instead produces hypodermal cells and body wall muscle cells, much like its sister blastomere.
+Genetic analysis suggests that the skn-1 gene product is also required post-embryonically for development of the intestine.
+We have cloned and sequenced the skn-1 gene and describe sequence similarities to the basic regions of bZIP transcription factors.
+We propose that the maternally expressed skn-1 gene product acts to specify the fate of the EMS blastomere.
+Two types of developmental events can cause an embryonic cell to adopt a fate different from that of its neighbours during a cell division particular contents may be segregated to only one daughter cell and cells may experience different external cues, commonly in the form of inductive cell interactions.
+Work on development in the nematode Caenorhabditis elegans suggests that most cell fates are specified without a need for cell interactions.
+In particular, the gut cell lineage of C. elegans has been used as a primary example of specification by differential segregation of determinants.
+Here I re-examine the role of induction in gut specification by isolating early blastomeres.
+In C. elegans, the gut derives from all the progeny of a single blastomere (E) of the eight-cell stage.
+When a gut precursor cell (EMS) is isolated during the first half of the four-cell stage, gut does not differentiate.
+Gut differentiation is rescued by recombining EMS with its posterior neighbour (P2), but not by recombining EMS with one or both of the other two cells of the four-cell stage.
+These results demonstrate that P2 induces EMS to form gut in C. elegans.
+The gut of C. elegans derives from all the progeny of the E blastomere, a cell of the eight cell stage.
+Previous work has shown that gut specification requires an induction during the four cell stage (Goldstein, B. (1992) Nature 357, 255-257).
+Blastomere isolation and recombination experiments were done to determine which parts of the embryo can respond to gut induction.
+Normally only the posterior side of the EMS blastomere contacts the inducing cell, P2.
+When P2 was instead placed in a random position on an isolated EMS, gut consistently differentiated from the daughter of EMS contacting P2, indicating that any side of EMS can respond to gut induction.
+Additionally, moving P2 around to the opposite side of EMS in an otherwise intact embryo caused EMSs two daughter cells to switch lineage timings, and gut to differentiate from the descendents of what normally would be the MS blastomere.
+The other cells of the four cell stage, ABa, ABp, and P2, did not form gut when placed in contact with the inducer.
+To determine whether any other inductions are involved in gut specification, timed blastomere isolations were done at the two and eight cell stages.
+In the absence of cell contact at the two cell stage, segregation of gut fate proceeded normally at both the two and four cell stages.
+Gut fate also segregated properly in the absence of cell contact at the eight cell stage.
+A model is presented for the roles of lineage-dependent mechanisms and cell interactions in establishing gut fate in the E lineage.
+The Caenorhabditis elegans rol-3(e754) mutation is a member of a general class of mutations affecting gross morphology, presumably through disruption of the nematode cuticle.
+Adult worms homozygous for rol-3(e754) exhibit rotation about their long axis associated with a left-hand twisted cuticle, musculature, gut and ventral nerve cord.
+Our laboratory previously isolated 12 recessive lethal alleles of rol-3.
+All these lethal alleles cause an arrest in development at either early or mid-larval stages, suggesting that the rol-3 gene product performs an essential developmental function.
+Furthermore, through the use of the heterochronic mutants lin-14 and lin-29, we have established that the expression of rol-3(e754)s adult specific visible function is not dependent on the presence of an adult cuticle.
+In an attempt to understand rol-3s developmental role we sought to identify other genes whose products interact with that of rol-3.
+Toward this end, we generated eight EMS induced and two gamma irradiation-induced recessive suppressors of the temperature sensitive (ts) mid-larval lethal phenotype of rol-3(s1040ts).
+These suppressors define two complementation groups srl-1 II and srl-2 III and, while they suppress the rol-3(s1040) lethality, they do not suppress the adult specific visible rolling phenotype.
+Furthermore, there is a complex genetic interaction between srl-2 and srl-1 such that srl-2(s2506) fails to complement all srl alleles tested.
+These results suggest that srl-1 and srl-2 may share a common function and, thus, possibly constitute members of the same gene family.
+Mutations in both srl-1 and srl-2 produce no obvious hermaphrodite phenotypes in the absence of rol-3(s1040ts) however, males homozygous for either srl-1 or srl-2 display aberrant tail morphology.
+We present evidence suggesting that the members of srl-2 are not allele specific with respect to their suppression of rol-3 lethality, and that rol-3 may act in some way to influence proper posterior morphogenesis.
+Finally, based on our genetic analysis of rol-3 and the srl mutations, we present a model whereby the wild-type products of the srl loci act in a concerted manner to negatively regulate the rol-3 gene.
+EMS, a blastomere of the Caenorhabditis elegans embryo, produces body wall muscle cell-autonomously in isolation.
+Within the embryonic context, however, the specification of body wall muscle derived from EMS depends on inductive interactions between its daughter MS and ABa descendants that are required to overcome inhibitory interactions with other cells.
+The inductive events between the MS and ABa descendants are reciprocal, specifying subsequent fates in both lineages.
+Both induction events are blocked by mutations in the gene glp-1, known to encode a Notch-like transmembrane receptor protein.
+Establishment of the gut founder cell (E) in C. elegans involves an interaction between the P2 and the EMS cell at the four cell stage.
+Here I show that the fate of only one daughter of EMS, the E cell, is affected by this induction.
+In the absence of the P2-EMS interaction, both E and its sister cell, MS, produce pharyngeal muscle cells and body wall muscle cells, much as MS normally does.
+By cell manipulations and inhibitor studies, I show first that EMS loses the competence to respond before it divides even once, but P2 presents an inducing signal for at least three cell cycles.
+Second, induction on one side of the EMS cell usually blocks the other side from responding to a second P2-derived signal.
+Third, microfilaments and microtubules may be required near the time of the interaction for subsequent gut differentiation.
+Lastly, cell manipulations in pie-1 mutant embryos, in which the P2 cell is transformed to an EMS-like fate and produces a gut cell lineage, revealed that gut fate is segregated to one of P2s daughters cell-autonomously.
+The results contrast with previous results from similar experiments on the response to other inductions, and suggest that this induction may generate cell diversity by a different mechanism.
+Cells of the early Caenorhabditis elegans embryo divide in an invariant pattern.
+Here I show that the division axes of some early cells (EMS and E) are controlled by specific cell-cell contacts (EMS-P-2 or E-P-3 contact).
+Altering the orientation of contact between these cells alters the axis along which the mitotic spindle is established, and hence the orientation of cell division.
+Contact-dependent mitotic spindle orientation appears to work by establishing a site of the type described by Hyman and White in the cortex of the responding cell one centrosome moves toward the site of cell-cell contact during centrosome rotation in both intact embryos and reoriented cell pairs.
+The effect is especially apparent when two donor cells are placed on one side of the responding cell both centrosomes are captured, pulling the nucleus to one side of the cell.
+No centrosome rotation occurs in the absence of cell-cell contact, nor in nocodazole-treated cell pairs.
+The results suggest that some of the cortical sites described by Hyman and White are established cell autonomously (in P-1, P-2, and P-3), and some are established by cell-cell contact (in EMS and E).
+Additional evidence presented here suggests that in the EMS cell, contact-dependent spindle orientation ensures a cleavage plane that will partition developmental information, received by induction, to one of EMSs daughter cells.
+Genetic and molecular studies of development in Caenorhabiditis elegans have identified regulators that appear to control pattern formation in the cellularized nematode embryo.
+Two genes, skn-1 and pie-1, are required for specifying the different identities of two sister blastomeres in a 4-cell embryo, called P2 and EMS.
+The skn-1 gene encodes a DNA binding protein that may control blastomere development by regulating transcription in EMS and its descendants.
+ABa and ABp, the other two sisters in a 4-cell embryo, are influenced to develop differently by cell signaling events that require the two genes apx-1 and glp-1.
+In this review, I summarize evidence that some or all of these genes may encode embryonic determinants of blastomere identity.
+During embryogenesis of Caenorhabditis elegans cellular interactions are necessary to determine the fate of blastomeres.
+In one of these interactions, taking place in the 4-cell stage, the germline cell P2 induces longitudinal orientation of the cleavage spindle in the neighboring EMS cell, its asymmetric division, and the establishment of a gut lineage.
+Application of several polysulfated hydrocarbon dyes (e.g., trypan blue, TB) in the 1- to 4-cell stages inhibits induction of the gut precursor cell.
+However, dye application from the late 4-cell stage onward does not interfere with gut induction, supporting the earlier finding of a short time window for this interaction.
+We also tested the effect of TB on the induction of pharyngeal muscle cells by the MS blastomere, which appears to involve a surface receptor-ligand interaction.
+We found that this process is inhibited as well.
+These and additional data indicate that polysulfated hydrocarbon dyes are suitable tools to generally interfere with cell-cell interactions in the nematode embryo.
+A polarizing signal induces endoderm production by a 4-cell stage blastomere in C. elegans called EMS.
+We identified 16 mutations in five genes, mom-1 through mom-5, required for EMS to produce endoderm.
+mom-1, mom-2, and mom-3 are required in the signaling cell, P2, while mom-4 is required in EMS.
+P2 signaling downregulates an HMG domain protein, POP-1, in one EMS daughter.
+The sequence of mom-2 predicts that it encodes a member of the Wnt family of secreted glycoproteins, which in other systems activate HMG domain proteins.
+Defective mitotic spindle orientations in mom mutant embryos indicate that Wnt signaling influences cytoskeletal polarity in blastomeres throughout the early embryo.
+In a 4-cell stage C. elegans embryo, signaling by the P2 blastomere induces anterior-posterior polarity in the adjacent EMS blastomere, leading to endoderm formation.
+We have taken genetic and reverse genetic approaches toward understanding the molecular basis for this induction.
+These studies have identified a set of genes with sequence similarity to genes that have been shown to be, or are implicated in, Wnt/Wingless signaling pathways in other systems.
+The C. elegans genes described here are related to wnt/wingless, porcupine, frizzled, beta-catenin/armadillo, and the human adenomatous polyposis coli gene, APC.
+We present evidence that there may be partially redundant inputs into endoderm specification and that a subset of these genes appear also to function in determining cytoskeletal polarity in certain early blastomeres.
+Caenorhabditis elegans vulval development culminates during exit from the L4-to-adult molt with the formation of an opening through the adult hypodermis and cuticle that is used for egg laying and mating.
+Vulva formation requires the heterochronic gene lin-29, which triggers hypodermal cell terminal differentiation during the final molt.
+lin-29 mutants are unable to lay eggs or mate because no vulval opening forms instead, a protrusion forms at the site of the vulva.
+We demonstrate through analysis of genetic mosaics that lin-29 is absolutely required in a small subset of lateral hypodermal seam cells, adjacent to the vulva, for wild-type vulva formation and egg laying.
+However, lin-29 function is not strictly limited to the lateral hypodermis.
+First, LIN-29 accumulates in many non-hypodermal cells with known roles in vulva formation or egg laying.
+Second, animals homozygous for one lin-29 allele, ga94, have the vulval defect and cannot lay eggs, despite having a terminally differentiated adult lateral hypodermis.
+Finally, vulval morphogenesis and egg laying requires lin-29 activity within the EMS lineage, a lineage that does not generate hypodermal cells.
+The classic view of a strictly cell-autonomous development in nematode embryos has been overturned in recent years with the demonstration of various inductive interactions during early development of Caenorhabditis elegans.
+To examine how conserved the pattern of embryonic cell specification is among nematodes, we have begun to study the pattern in other species after selective elimination of certain early blastomeres.
+Here we report considerable differences in specification of the gut lineage between C. elegans and Acrobeloides nanus, another free-living soil nematode belonging to the same order.
+In C. elegans none of the early blastomeres is by itself able to establish a gut lineage for which an inductive interaction between the somatic EMS cell and its germline sister P2 is required.
+In contrast, in A. nanus all blastomeres of the 3-cell stage carry the potential to generate gut cells.
+Our data suggest that repressive interactions take place among blastomeres to ensure that under normal conditions only one of them executes the gut fate.
+Thus, in related species of nematodes with a very conserved morphology, the assignment of cell fate during early embryogenesis appears to involve quite different strategies.
+In a four-cell-stage Caenorhabditis elegans embryo, Wnt signaling polarizes an endoderm precursor called EMS.
+The polarization of this cell orients its mitotic spindle in addition to inducing endodermal fate in one daughter cell.
+Reducing the function of Wnt pathway genes, including a newly identified GSK-3beta homolog called gsk-3, disrupts endoderm induction, whereas only a subset of these genes is required for proper EMS mitotic spindle orientation.
+Wnt pathway genes thought to act downstream of gsk-3 appear not to be required for spindle orientation, suggesting that gsk-3 represents a branch point in the control of endoderm induction and spindle orientation.
+Orientation of the mitotic spindle does not require gene transcription in EMS, suggesting that Wnt signaling may directly target the cytoskeleton in a responding cell.
+Cell specification during embryogenesis of the model system Caenorhabditis elegans involves a combination of inductive and autonomous mechanisms.
+We have begun to study the development of other nematodes to investigate how well cell-specification mechanisms are preserved among closely related species.
+Here we report that the embryo of the soil nematode Acrobeloides nanus expresses a so far undescribed regulative potential.
+When, for instance, the first somatic founder cell AB is eliminated it is replaced by its posterior neighbor EMS, which in turn is replaced by the C cell.
+This allows-different from C. elegans-the development of partial embryos up to hatching and sometimes to fertile adults.
+Thus, early somatic blastomeres in A. nanus are multipotent, each being capable of giving rise to more than one somatic founder cell.
+Lost germ-line cells, however, are not replaced.
+A model is presented, according to which in A. nanus cellular identities are assigned by specific reciprocal inhibitory cell-cell interactions absent in C. elegans.
+Differences and similarities in cell specification between the two species are discussed and related to different developmental strategies.
+In Caenorhabditis elegans, Wnt signaling pathways are important in controlling cell polarity and cell migrations.
+In the embryo, a novel Wnt pathway functions through a (beta)-catenin homolog, WRM-1, to downregulate the levels of POP-1/Tcf in the posterior daughter of the EMS blastomere.
+The level of POP-1 is also lower in the posterior daughters of many anteroposterior asymmetric cell divisions during development.
+I have found that this is the case for of a pair of postembryonic blast cells in the tail.
+In wild-type animals, the level of POP-1 is lower in the posterior daughters of the two T cells, TL and TR.
+Furthermore, in lin-44/Wnt mutants, in which the polarities of the T cell divisions are frequently reversed, the level of POP-1 is frequently lower in the anterior daughters of the T cells.
+I have used a novel RNA-mediated interference technique to interfere specifically with pop-1 zygotic function and have determined that pop-1 is required for wild-type T cell polarity.
+Surprisingly, none of the three C. elegans (beta)-catenin homologs appeared to function with POP-1 to control T cell polarity.
+Wnt signaling by EGL-20/Wnt controls the migration of the descendants of the QL neuroblast by regulating the expression the Hox gene mab-5.
+Interfering with pop-1 zygotic function caused defects in the migration of the QL descendants that mimicked the defects in egl-20/Wnt mutants and blocked the expression of mab-5.
+This suggests that POP-1 functions in the canonical Wnt pathway to control QL descendant migration and in novel Wnt pathways to control EMS and T cell polarities.
+The endoderm and much of the mesoderm arise from the EMS cell in the four-cell C. elegans embryo.
+We report that the MED-1 and -2 GATA factors specify the entire fate of EMS, which otherwise produces two C-like mesectodermal progenitors.
+The meds are direct-targets of the maternal SKN-1 transcription factor however, their forced expression can direct SKN-1-independent reprogramming of non-EMS cells into mesendodermal progenitors.
+We find that SGG-1/GSK-3 beta kinase acts both as a Wnt-dependent activator of endoderm in EMS and an apparently Wnt-independent repressor of the meds in the C lineage, indicating a dual role for this kinase in mesendoderm development.
+Our results suggest that a broad tissue territory, mesendoderm, in vertebrates has been confined to a single cell in nematodes through a common gene regulatory network.
+In early C. elegans embryos, signaling between a posterior blastomere, P2, and a ventral blastomere, EMS, specifies endoderm and orients the division axis of the EMS cell.
+Although Wnt signaling contributes to this polarizing interaction, no mutants identified to date abolish P2/EMS signaling.
+Here, we show that two tyrosine kinase-related genes, src-1 and mes-1, are required for the accumulation of phosphotyrosine between P2 and EMS.
+Moreover, src-1 and mes-1 mutants strongly enhance endoderm and EMS spindle rotation defects associated with Wnt pathway mutants.
+SRC-1 and MES-1 signal bidirectionally to control cell fate and division orientation in both EMS and P2.
+Our findings suggest that Wnt and Src signaling function in parallel to control developmental outcomes within a single responding cell.
+In vertebrates, oocytes undergo maturation, arrest in metaphase II, and can then be fertilized by sperm.
+Fertilization initiates molecular events that lead to the activation of early embryonic development.
+In Caenorhabditis elegans, where no delay between oocyte maturation and fertilization is apparent, oocyte maturation and fertilization must be tightly coordinated.
+It is not clear what coordinates the transition from an oocyte to an embryo in C elegans, but regulated turnover of oocyte-specific proteins contributes to the process.
+We describe here a gain-of-function mutation (zu405) in a gene that is essential for oocyte maturation, oma-1.
+In wild type animals, OMA-1 protein is expressed at a high level exclusively in oocytes and newly fertilized embryos and is degraded rapidly after the first mitotic division.
+The zu405 mutation results in improper degradation of the OMA-1 protein in embryos.
+In oma-1(zu405) embryos, the C blastomere is transformed to the EMS blastomere fate, resulting in embryonic lethality.
+We show that degradation of several maternally supplied cell fate determinants, including SKN-1, PIE-1, MEX-3, and MEX-5, is delayed in oma-1(zu405) mutant embryos.
+In wild type embryos, SKN-1 functions in EMS for EMS blastomere fate specification.
+A decreased level of maternal SKN-1 protein in the C blastomere relative to EMS is believed to be responsible for this cell expressing the C, instead of the EMS, fate.
+Delayed degradation of maternal SKN-1 protein in oma-1(zu405) embryos and resultant elevated levels in C blastomere is likely responsible for the observed C-to-EMS blastomere fate transformation.
+These observations suggest that oma-1, in addition to its role in oocyte maturation, contributes to early embryonic development by regulating the temporal degradation of maternal proteins in early C. elegans embryos.
+In Caenhorabtidis elegans embryos, the nuclei of sister cells that are born from anterior/posterior divisions show an invariant high/low asymmetry, respectively, in their level of the transcription factor POP-1.
+Previous studies have shown that POP-1 asymmetry between the daughters of an embryonic cell called EMS results in part from a Wnt-like signal provided by a neighboring cell, called P(2).
+We identify here additional signaling cells that play a role in POP-1 asymmetry for other early embryonic cells.
+Some of these cells have signaling properties similar to P(2), whereas other cells use apparently distinct signaling pathways.
+Although cell signaling plays a critical role in POP-1 asymmetry during the first few cell divisions, later embryonic cells have an ability to generate POP-1 asymmetry that appears to be independent of prior Wnt signaling.
+G-protein signaling plays important roles in asymmetric cell division.
+In C elegans embryos, homologs of receptor-independent G protein activators, GPR-1 and GPR-2 (GPR-1/2), function together with Galpha (GOA-1 and GPA-16) to generate asymmetric spindle pole elongation during divisions in the P lineage.
+Although Galpha is uniformly localized at the cell cortex, the cortical localization of GPR-1/2 is asymmetric in dividing P cells.
+In this report, we show that the asymmetry of GPR-1/2 localization depends on PAR-3 and its downstream intermediate LET-99.
+Furthermore, in addition to its involvement in spindle elongation, Galpha is required for the intrinsically programmed nuclear rotation event that orients the spindle in the one-cell.
+LET-99 functions antagonistically to the Galpha/GPR-1/2 signaling pathway, providing an explanation for how Galpha-dependent force is regulated asymmetrically by PAR polarity cues during both nuclear rotation and anaphase spindle elongation.
+In addition, Galpha and LET-99 are required for spindle orientation during the extrinsically polarized division of EMS cells.
+In this cell, both GPR-1/2 and LET-99 are asymmetrically localized in response to the MES-1/SRC-1 signaling pathway.
+Their localization patterns at the EMS/P-2 cell boundary are complementary, suggesting that LET-99 and Galpha/GPR-1/2 signaling function in opposite ways during this cell division as well.
+These results provide insight into how polarity cues are transmitted into specific spindle positions in both extrinsic and intrinsic pathways of asymmetric cell division.
+omparative analyses revealed considerable differences in embryonic pattern formation and cell-specification between Caenorhabditis elegans and Acrobeloides nanus, members of two neighboring nematode clades.
+While C.elegans develops very rapidly, A.nanus needs 4-5 times as long.
+To investigate whether differences during early embryogenesis could be related to developmental tempo, we studied three more slowly developing representatives of the genus Rhabditis, thus close relatives of C.elegans.
+Besides differences in body size and mode of reproduction, they differ from C.elegans in the order of cleavages, germline behavior and requirement for early zygotic transcription, showing evident similarities to A.nanus.
+The distinct variations in cell-cycle rhythms and arrest after inhibition of transcription appear to reflect a species-specific interplay in the timing between exhausting maternal supplies and making available newly transcribed gene products.
+Looking for the reversal of cleavage polarity in the germline present in C.elegans but not in A.nanus, two of the studied species express this distinct feature only in a later cell generation.
+We found that a C.elegans mutant in the mes-1 gene shows a similar deviation.
+Concerning specification of the gut cell lineage and the potential to compensate for lost cells, the three tested Rhabditis species behave less regulatively, like C.elegans in contrast to A.nanus, the gut precursor EMS requires an inductive signal from the germline cell P(2) and an experimentally eliminated EMS cell is not replaced by a neighboring blastomere.
+In conclusion, embryogenesis of the examined Rhabditis species includes features of both the fast-developing C.elegans and the slow-developing A.nanus.
+During Caenorhabditis elegans embryogenesis, a maternally supplied transcription factor, SKN-1, is required for the specification of the mesendodermal precursor, EMS, in the 4-cell stage embryo.
+When EMS divides, it gives rise to a mesoderm-restricted precursor, MS, and an endoderm-restricted precursor, E.
+By comparing total cDNAs generated from individual, carefully staged embryos, we identified 275 genes up-regulated in 12-cell embryos compared to 4-cell embryos.
+Fifty of these 275 genes are down-regulated in 12-cell skn-1 mutant embryos and are designated skn-1-dependent zygotic (sdz) genes.
+The spatial and temporal expression patterns in C. elegans embryos of 10 randomly selected sdz genes were analyzed by a nuclear GFP reporter driven by the endogenous 5 regulatory sequence of each gene.
+GFP expression, although absent at the 4-cell stage, was detected at the 12- to 16-cell stage for all 10 genes and was restricted to EMS-derived lineages for 7 of the 10.
+Among the seven lineage-specific genes, three genes are expressed equally in both MS and E lineages, two are expressed exclusively or predominantly in the MS lineage, and two are expressed exclusively in the E lineage.
+Depletion of skn-1 by RNAi abolishes the expression of all seven reporter transgenes in vivo, confirming that these genes are indeed skn-1 dependent.
+These results demonstrate the successful combination of single-staged embryo cDNAs, genetic mutants, and whole transcriptome microarray analysis to identify stage- and lineage-specific transcripts in early C. elegans embryos.
+POP-1, a Tcf/Lef-1-like target of the convergent Wnt and MAP kinase (MAPK) signaling pathways, functions throughout Caenorhabditis elegans development to generate unequal daughters during asymmetric cell divisions.
+A particularly prominent such asymmetric division occurs when the EMS blastomere divides to produce MS, a mesoderm precursor, and E, the sole endoderm progenitor.
+POP-1 allows mesoderm development in the MS lineage by repressing the endoderm-promoting end-1 and end-3 genes.
+This repression is relieved in the E lineage by Wnt/MAPK signaling, which results in phosphorylation and export of POP-1 from the E nucleus.
+Here, we report that, in addition to repressing E development in MS, POP-1 also functions positively in endoderm development, in conjunction with the well-characterized endoderm-promoting SKN-1--gtMED regulatory cascade.
+While removal of POP-1 alone results in derepression of endoderm development in the MS lineage, mutations in several genes that result in impenetrant loss of endoderm are strongly enhanced by loss of pop-1 function.
+A Lef-1-like binding site is essential for activation of an end-1 promoter fusion, suggesting that POP-1 may act directly on end-1.
+Thus, POP-1 may generate developmental asymmetry during many cell divisions in C. elegans by reiteratively switching from repressive and activating states.
+Furthermore, we report that the Caudal-like homeodomain protein PAL-1, whose role in early embryogenesis was thought to be exclusive specification of mesectodermal development in the lineage of the C blastomere, can act with POP-1 to activate endoderm specification in the absence of the SKN-1--gtMED transcriptional input, accounting for the impenetrance of mutants lacking SKN-1 or MED-1,2 activity.
+We conclude that the combined action of several separate transcriptional regulatory inputs, including SKN-1, the MEDs, PAL-1, and the Wnt/MAPK-activated form of POP-1, are responsible for activating end gene transcription and endoderm development.
+Asymmetric cell divisions play an important role in generating diversity during metazoan development.
+In the early C. elegans embryo, a series of asymmetric divisions are crucial for establishing the three principal axes of the body plan (AP, DV, LR) and for segregating determinants that specify cell fates.
+In this review, we focus on events in the one-cell embryo that result in the establishment of the AP axis and the first asymmetric division.
+We first describe how the sperm-derived centrosome initiates movements of the cortical actomyosin network that result in the polarized distribution of PAR proteins.
+We then briefly discuss how components acting downstream of the PAR proteins mediate unequal segregation of cell fate determinants to the anterior blastomere AB and the posterior blastomere P 1 .
+We also review how a heterotrimeric G protein pathway generates cortically based pulling forces acting on astral microtubules, thus mediating centrosome and spindle positioning in response to AP polarity cues.
+In addition, we briefly highlight events involved in establishing the DV and LR axes.
+The DV axis is established at the four-cell stage, following specific cell-cell interactions that occur between P 2 and EMS , the two daughters of P 1 , as well as between P 2 and ABp , a daughter of AB .
+The LR axis is established shortly thereafter by the division pattern of ABa and ABp .
+We conclude by mentioning how findings made in early C. elegans embryos are relevant to understanding asymmetric cell division and pattern formation across metazoan evolution.
+We have previously shown that the MED-1,2 divergent GATA factors act apparently zygotically to specify the fates of the MS (mesoderm) and E (endoderm) sister cells, born at the 7-cell stage of C. elegans embryogenesis.
+In the E cell, MED-1,2 activate transcription of the endoderm-promoting end-1 and end-3 genes.
+We demonstrate by in situ hybridization that med transcripts accumulate both in the EMS cell and in the maternal germline in a SKN-1-dependent manner.
+Removal of zygotic med function alone results in a weakly impenetrant loss of endoderm.
+However, med-1,2(-) embryos made by mothers in which germline med transcripts have been abrogated by transgene cosuppression fail to make endoderm 50 of the time, similar to the phenotype seen by RNAi.
+We also find that reduction of Med or End activity results in aberrant numbers of intestinal cells in embryos that make endoderm.
+We further show that regulation of the paralogous end-1 and end-3 genes consists of both shared and distinct inputs, and that END-3 activates end-1 expression.
+Our data thus reveal three new properties of C. elegans endoderm specification both maternal and zygotic activities of the med genes act to specify endoderm, defects in endoderm specification also result in defects in gut cell number, and activation of the paralogous end-1 and end-3 genes differs qualitatively in the relative contributions of their upstream regulators.
+Early localization of C. elegans founder cell descendents in certain regions of embryo has been documented.
+The purpose of this investigation is to evaluate the onset of ABp and EMS descendent cell regionalization in the embryo using the random motility coefficient as a quantitative parameter.
+The forward migration index (FMI) was also calculated in order to evaluate the chemotatic biases of ABp-dc and EMS-dc during regionalization.
+The results showed that the random motility coefficient declined as the cells tended to regionalize.
+The mean squared displacement (MSD) versus time plot showed a non-linear model which indicated non-random cell movement.
+FMI showed progressive increase as the cells tended to regionalized, and it was significantly higher in EMS-dc than ABp-dc, moreover the chemotatic biases were higher in EMS-dc than ABp-dc.
+The circular plots showed that the statistical differences between the two lineages were significant, while ABp-dc showed significant differences in xy, xz and yz planes EMS derived cells showed no significant differences except in yz planes.
+The conclusion of this study is that the onset of early regionalization occurs in EMS-dc sooner than in ABp-dc.
+In many organisms, the dynein-dynactin complex is required for the alignment of the mitotic spindle onto the axis of polarity of a cell undergoing asymmetric cell division.
+How this complex transduces polarity cues, either intrinsic or extrinsic, and rotationally aligns the spindle accordingly is not well understood.
+The Caenorhabditis elegans blastomere P2 polarizes the neighboring EMS blastomere, which causes the EMS spindle to rotationally align along the defined axis of polarity via two redundant signaling pathways Wnt and Src.
+Here, we describe how components of the dynactin complex became locally enriched at the P2-EMS border prior to and during rotational alignment of their spindles.
+Wnt and Src signaling were required for both localized dynactin enrichment, and for rotational alignment of the P2 and EMS spindles.
+Depleting the trimeric G-protein subunit Galpha did not abolish dynactin accumulation to the P2-EMS border, yet both EMS and P2 spindles failed to rotationally align, indicating that Galpha might act to regulate dynein/dynactin motor activity.
+By RNAi of a weak dnc-1(ts) allele, we showed that dynactin activity was required at least for EMS spindle rotational alignment.
+We have begun to analyze the early embryogenesis of Romanomermis culicivorax, an insect-parasitic nematode phylogenetically distant to Caenorhabditis elegans.
+Development of R. culicivorax differs from C. elegans in many aspects including establishment of polarity, formation of embryonic axes and the pattern of asymmetric cleavages.
+Here, a polarity reversal in the germline takes place already in P(1) rather than P(2), the dorsal-ventral axis appears to be inverted and gut fate is derived from the AB rather than from the EMS blastomere.
+So far unique for nematodes is the presence of colored cytoplasm and its segregation into one specific founder cell.
+Normal development observed after experimentally induced abnormal partitioning of pigment indicates that it is not involved in cell specification.
+Another typical feature is prominent midbodies (MB).
+We investigated the role of the MB region in the establishment of asymmetry.
+After its irradiation the potential for unequal cleavage in somatic and germline cells as well as differential distribution of pigment are lost.
+This indicates a crucial involvement of this region for spindle orientation, positioning, and cytoplasmic segregation.
+A scenario is sketched suggesting why and how during evolution the observed differences between R. culicivorax and C. elegans may have evolved.
+The specification of the Caenorhabditis elegans endomesoderm has been the subject of study for more than 15 years.
+Specification of the 4-cell stage endomesoderm precursor, EMS, occurs as a result of the activation of a transcription factor cascade that starts with SKN-1, coupled with input from the Wnt/beta-catenin asymmetry pathway through the nuclear effector POP-1.
+As development proceeds, transiently-expressed cell fate factors are succeeded by stable, tissue/organ-specific regulators.
+The pathway is complex and uses motifs found in all transcriptional networks.
+Here, the regulators that function in the C. elegans endomesoderm network are described.
+An examination of the motifs in the network suggests how they may have evolved from simpler gene interactions.
+Flexibility in the network is evident from the multitude of parallel functions that have been identified and from apparent changes in parts of the corresponding network in Caenorhabditis briggsae.
+Overall, the complexities of C. elegans endomesoderm specification build a picture of a network that is robust, complex, and still evolving.
+The endoderm of C. elegans arises entirely from a single progenitor cell, the E blastomere, whose identity is specified by GATA type transcription factors, including END-1.
+In response to an inductive interaction mediated through Wnt/MAP kinase signaling pathways, POP-1, a Lef/Tcf-type transcription factor (Lin, R., Thompson, S., and Priess, J.R., 1995. pop-1 encodes an HMG box protein required for the specification of a mesoderm precursor in early C. elegans embryos. Cell 83, 599-609.). , restricts end-1 transcription to the posterior daughter of the mesendoderm progenitor (EMS cell), resulting in activation of endoderm differentiation by the SKN-1 and MED-1/2 transcription factors.
+We purified a factor from semi-synchronized early embryos that binds to an end-1 cis regulatory region critical for its endoderm-specific expression.
+Mass spectrometry identified this protein, PLP-1, as a C. elegans orthologue of the vertebrate pur alpha transcription factor.
+Expression of end-1 is attenuated in embryos depleted for PLP-1.
+While removal of plp-1 activity alone does not prevent endoderm development, it strongly enhances the loss of endoderm in mutants defective for the Wnt pathway.
+In contrast, loss of PLP-1 function does not synergize with mutants in the endoderm-inducing MAPK pathway.
+Moreover, nuclear localization of PLP-1 during interphase requires components of the MAPK pathway, suggesting that PLP-1 is influenced by MAPK signaling.
+PLP-1 is transiently asymmetrically distributed during cell divisions, with higher levels in the chromatin of the future posterior daughter of EMS and other dividing cells shortly after mitosis compared to that in their sisters.
+These findings imply that PLP-1 acts as a transcriptional activator of end-1 expression that may be modulated by MAPK signaling to promote endoderm development.
+In order to evaluate the evolutionary preservation of developmental programs during nematode embryogenesis, we searched for close relatives of the model system Caenorhabditis elegans with deviant patterns.
+The parthenogenetically reproducing species Diploscapter coronatus shows prominent differences to C. elegans.
+While in the 2-cell stage of C. elegans a rotation of the nuclear/centrosome complex is found only in the posterior P1 cell, in D. coronatus cell isolation indicates that rotation takes place in a cell-autonomous manner in both blastomeres, resulting in a linear 4-cell array.
+In C. elegans, the ABp cell becomes different from its ABa sister via a germline-induced induction.
+In D. coronatus, AB daughters do not touch the germline but nevertheless execute different fates, suggesting a cell-autonomous mechanism or signaling over distance.
+Laser ablation experiments revealed that active migration of the EMS cell is required to transform the linearly ordered blastomeres into a 3-dimensional embryo, and the difference can be most easily explained with a heterochronic shift with respect to cell mobility.
+In D. coronatus, reversal of cleavage polarity in the germline, typical for C. elegans, is absent.
+This results in four different transient variants of posterior blastomeres which eventually merge into a single pattern prior to the onset of gastrulation.
+This merging includes primordial germ cell migrations of variable extent toward the gut precursor cell and suggests a specific cell-cell recognition mechanism.
+Cell distribution in advanced embryos is essentially indistinguishable between both species.
+In C. elegans the 4-cell stage blastomere EMS is an endomesodermal precursor.
+Its anterior daughter, MS, makes primarily mesodermal cells, while its posterior daughter E generates the entire intestine.
+The gene regulatory network underlying specification of MS and E has been the subject of study for more than 15 years.
+A key component of the specification of the two cells is the involvement of the Wnt/beta-catenin asymmetry pathway, which through its nuclear effector POP-1, specifies MS and E as different from each other.
+Loss of pop-1 function results in the mis-specification of MS as an E-like cell, because POP-1 directly represses the end-1 and end-3 genes in MS, which would otherwise promote an endoderm fate.
+A long-standing question has been whether POP-1 plays a role in specifying MS fate beyond repression of endoderm fate.
+This question has been difficult to ask because the only chromosomal lesions that remove both end-1 and end-3 are large deletions removing hundreds of genes.
+Here, we report the construction of bona fide end-1 end-3 double mutants.
+In embryos lacking activity of end-1, end-3 and pop-1 together, we find that MS fate is partially restored, while E expresses early markers of MS fate and adopts characteristics of both MS and C.
+Our results suggest that POP-1 is not critical for MS specification beyond repression of endoderm specification, and reveal that Wnt-modified POP-1 and END-1/3 further reinforce E specification by repressing MS fate in E.
+By comparison, a previous work suggested that in the related nematode C. briggsae, Cb-POP-1 is not required to repress endoderm specification in MS, in direct contrast with Ce-POP-1, but is critical for repression of MS fate in E.
+The findings reported here shed new light on the flexibility of combinatorial control mechanisms in endomesoderm specification in Caenorhabditis.
+ Self-organization is a fundamental feature of living organisms at all hierarchical levels from molecule to organ.
+It has also been documented in developing embryos.
+ In this study, a scale-invariant power law (SIPL) method has been used to study self-organization in developing embryos.
+The SIPL coefficient was calculated using a centro-axial skew symmetrical matrix (CSSM) generated by entering the components of the Cartesian coordinates for each component, one CSSM was generated.
+A basic square matrix (BSM) was constructed and the determinant was calculated in order to estimate the SIPL coefficient.
+This was applied to developing C. elegans during early stages of embryogenesis.
+The power law property of the method was evaluated using the straight line and Koch curve and the results were consistent with fractal dimensions (fd).
+Diffusion-limited aggregation (DLA) was used to validate the SIPL method.
+The fractal dimensions of both the straight line and Koch curve showed consistency with the SIPL coefficients, which indicated the power law behavior of the SIPL method.
+The results showed that the ABp sublineage had a higher SIPL coefficient than EMS, indicating that ABp is more organized than EMS.
+The fd determined using DLA was higher in ABp than in EMS and its value was consistent with type 1 cluster formation, while that in EMS was consistent with type 2.
+Cell divisions are sometimes oriented by extrinsic signals, by mechanisms that are poorly understood.
+Proteins containing TPR and GoLoco-domains (C. elegans GPR-1/2, Drosophila Pins, vertebrate LGN and AGS3) are candidates for mediating mitotic spindle orientation by extrinsic signals, but the mechanisms by which TPR-GoLoco proteins may localize in response to extrinsic cues are not well defined.
+The C. elegans TPR-GoLoco protein pair GPR-1/2 is enriched at a site of contact between two cells - the endomesodermal precursor EMS and the germline precursor P(2) - and both cells align their divisions toward this shared cell-cell contact.
+To determine whether GPR-1/2 is enriched at this site within both cells, we generated mosaic embryos with GPR-1/2 bearing a different fluorescent tag in different cells.
+We were surprised to find that GPR-1/2 distribution is symmetric in EMS, where GPR-1/2 had been proposed to function as an asymmetric cue for spindle orientation.
+Instead, GPR-1/2 is asymmetrically distributed only in P(2).
+We demonstrate a role for normal GPR-1/2 localization in P(2) division orientation.
+We show that MES-1/Src signaling plays an instructive role in P(2) for asymmetric GPR-1/2 localization and normal spindle orientation.
+We ruled out a model in which signaling localizes GPR-1/2 by locally inhibiting LET-99, a GPR-1/2 antagonist.
+Instead, asymmetric GPR-1/2 distribution is established by destabilization at one cell contact, diffusion, and trapping at another cell contact.
+Once the mitotic spindle of P(2) is oriented normally, microtubule-dependent removal of GPR-1/2 prevented excess accumulation, in an apparent negative-feedback loop.
+These results highlight the role of dynamic TPR-GoLoco protein localization as a key mediator of mitotic spindle alignment in response to instructive, external cues.
+The issue of heterozygosity continues to be a challenge in the analysis of genome sequences.
+In this article, we describe the use of allele ratios to distinguish biologically significant single-nucleotide variants from background noise.
+An application of this approach is the identification of lethal mutations in Caenorhabditis elegans essential genes, which must be maintained by the presence of a wild-type allele on a balancer.
+The h448 allele of let-504 is rescued by the duplication balancer sDp2.
+We readily identified the extent of the duplication when the percentage of read support for the lesion was between 70 and 80.
+Examination of the EMS-induced changes throughout the genome revealed that these mutations exist in contiguous blocks.
+During early embryonic division in self-fertilizing C. elegans, alkylated guanines pair with thymines.
+As a result, EMS-induced changes become fixed as either GA or CT changes along the length of the chromosome.
+Thus, examination of the distribution of EMS-induced changes revealed the mutational and recombinational history of the chromosome, even generations later.
+We identified the mutational change responsible for the h448 mutation and sequenced PCR products for an additional four alleles, correlating let-504 with the DNA-coding region for an ortholog of a NFB-activating protein, NKAP.
+Our results confirm that whole-genome sequencing is an efficient and inexpensive way of identifying nucleotide alterations responsible for lethal phenotypes and can be applied on a large scale to identify the molecular basis of essential genes.
+In early Caenorhabditis elegans embryos, the Wingless/int (Wnt)- and Src-signaling pathways function in parallel to induce both the division orientation of the endomesoderm (EMS) blastomere and the endoderm fate of the posterior EMS daughter cell, called E.
+WRM-1 localizes to the cortex of cells in both embryos and larvae and is released from the cortex in a Wnt-responsive manner.
+We show that WRM-1 cortical release is disrupted in a hypomorphic cyclin-dependent protein kinase 1 (cdk-1) mutant and that WRM-1 lacking potential CDK-1 phosphoacceptor sites is retained at the cortex.
+In both cases, cortical WRM-1 interferes with EMS spindle rotation without affecting endoderm specification.
+Finally, we show that removal of WRM-1 from the cortex can restore WT division orientation, even when both Wnt- and Src-signaling pathways are compromised.
+Our findings are consistent with a model in which Wnt signaling and CDK-1 modify WRM-1 in a temporal and spatial manner to unmask an intrinsic polarity cue required for proper orientation of the EMS cell division axis.
+The transcriptional regulatory hierarchy that controls development of the Caenorhabditis elegans endoderm begins with the maternally provided SKN-1 transcription factor, which determines the fate of the EMS blastomere of the four-cell embryo.
+EMS divides to produce the posterior E blastomere (the clonal progenitor of the intestine) and the anterior MS blastomere, a major contributor to mesoderm.
+This segregation of lineage fates is controlled by an intercellular signal from the neighboring P2 blastomere and centers on the HMG protein POP-1.
+POP-1 would normally repress the endoderm program in both E and MS but two consequences of the P2-to-EMS signal are that POP-1 is exported from the E-cell nucleus and the remaining POP-1 is converted to an endoderm activator by complexing with SYS-1, a highly diverged -catenin.
+In the single E cell, a pair of genes encoding small redundant GATA-type transcription factors, END-1 and END-3, are transcribed under the combined control of SKN-1, the POP-1/SYS-1 complex, as well as the redundant pair of MED-1/2 GATA factors, themselves direct zygotic targets of SKN-1 in the EMS cell.
+With the expression of END-1/END-3, the endoderm is specified.
+END-1 and END-3 then activate transcription of a further set of GATA-type transcription factors that drive intestine differentiation and function.
+One of these factors, ELT-2, appears predominant a second factor, ELT-7, is partially redundant with ELT-2.
+The mature intestine expresses several thousand genes, apparently all controlled, at least in part, by cis-acting GATA-type motifs.
+C. elegans, with its invariant cell lineage, provides a powerful model system in which to study signaling-dependent asymmetric cell division.
+The C. elegans -catenin-related protein, WRM-1, specifies endoderm at the 4-cell stage during the first cell signaling-induced asymmetric cell division of embryogenesis.
+During this interaction, Wnt signaling and the cell cycle regulator CDK-1 act together to induce the asymmetric cortical release of WRM-1 at prophase of the EMS cell cycle.
+Genetic studies suggest that release of WRM-1 unmasks a cortical site that drives EMS spindle rotation onto the polarized axis of the cell, simultaneously making WRM-1 available for nuclear translocation, and downstream signaling to specify endoderm.
+These studies suggest a general paradigm for how cortical factors like WRM-1 can function at the cell cortex to mask potentially confounding polarity cues, and when released with appropriate cell cycle timing, can also function downstream to define cell fate.
+In the 4-cell C. elegans embryo, a signal from P2 to its anterior sister, EMS, specifies the posterior daughter of EMS, E, as the sole founder cell for intestine.
+The P2-to-EMS signal restricts high level zygotic expression of the redundant GATA transcription factors, END-1 and END-3, to only the E lineage.
+Expression of END-1 or END-3 in early blastomeres is sufficient to drive intestinal differentiation.
+We show here that a number of E lineage characteristics, which are also regulated through P2-EMS signaling, can be uncoupled from intestine development, and each with a different sensitivity to specific perturbations of the P2-EMS signal.
+For example, we show that the extended cell cycle in Ea and Ep depends on the P2-induced high level expression of the cell cycle regulator, WEE-1.1, in E.
+A mutation in wee-1.1 results in shortened Ea and Ep cell cycles, but has no effect upon intestinal differentiation or embryogenesis.
+Furthermore, it has been shown previously that the total number of E lineage cell divisions is regulated by a mechanism dependent upon E being specified as the intestinal founder cell.
+We now show, however, that cell division counting can be uncoupled from intestine differentiation in the E lineage.
+Many mutations in P2-EMS signal genes exhibit nonfully-penetrant defects in intestinal differentiation.
+When embryos with those mutations generate intestinal cells, they often make too many intestinal cells.
+In addition, at the level of individual embryos, expression of end-1 and end-3, and another very early E-specific zygotic gene, sdz-23, exhibit stochastic and discordant defects in P2-EMS signaling mutants.
+We show here that sdz-23 is expressed close to wildtype levels in embryos deleted of both end-1 and end-3.
+sdz-23 does not appear to function in intestine development, raising the intriguing possibility that the P2-EMS interaction has downstream molecular consequences within the E lineage independent of end-1/3 and intestinal development.
+Wnt signals orient mitotic spindles in development, but it remains unclear how Wnt signaling is spatially controlled to achieve precise spindle orientation.
+Here, we show that C. elegans syndecan (SDN-1) is required for precise orientation of a mitotic spindle in response to a Wnt cue.
+We find that SDN-1 is the predominant heparan sulfate (HS) proteoglycan in the early C. elegans embryo, and that loss of HS biosynthesis or of the SDN-1 core protein results in misorientation of the spindle of the ABar blastomere.
+The ABar and EMS spindles both reorient in response to Wnt signals, but only ABar spindle reorientation is dependent on a new cell contact and on HS and SDN-1.
+SDN-1 transiently accumulates on the ABar surface as it contacts C, and is required for local concentration of Dishevelled (MIG-5) in the ABar cortex adjacent to C.
+These findings establish a new role for syndecan in Wnt-dependent spindle orientation.
+Regulated choice between cell fate maintenance and differentiation provides decision points in development to progress toward more restricted cell fates or to maintain the current one.
+Caenorhabditis elegans embryogenesis follows an invariant cell lineage where cell fate is generally more restricted upon each cell division.
+EMS is a progenitor cell in the four-cell embryo that gives rise to the endomesoderm.
+We recently found that when ubiquitin-mediated protein degradation is compromised, the anterior daughter of EMS, namely MS, reiterates the EMS fate.
+This observation demonstrates an essential function of ubiquitin-mediated protein degradation in driving the progression of EMS-to-MS differentiation.
+Here we report a genome-wide screen of the ubiquitin pathway and extensive lineage analyses.
+The results suggest a broad role of E3 ligases in driving differentiation progression.
+First, we identified three substrate-binding proteins for two Cullin-RING ubiquitin ligase (CRL) E3 complexes that promote the progression from the EMS fate to MS, namely LIN-23/-TrCP and FBXB-3 for the CRL1/SCF complex and ZYG-11/ZYG-11B for the CRL2 complex.
+Genetic analyses suggest these E3 ligases function through a multifunctional protein OMA-1 and the endomesoderm lineage specifier SKN-1 to drive differentiation.
+Second, we found that depletion of components of the CRL1/SCF complex induces fate reiteration in all major founder cell lineages.
+These data suggest that regulated choice between self-renewal and differentiation is widespread during C. elegans embryogenesis as in organisms with regulative development, and ubiquitin-mediated protein degradation drives the choice towards differentiation.
+Finally, bioinformatic analysis of time series gene expression data showed that expression of E3 genes is transiently enriched during time windows of developmental stage transitions.
+Transcription factors show similar enrichment, but not other classes of regulatory genes.
+Based on these findings we propose that ubiquitin-mediated protein degradation, like many transcription factors, function broadly as regulators driving developmental progression during embryogenesis in C. elegans.
