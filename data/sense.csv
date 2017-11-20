@@ -1,13 +1,13 @@
-,conn,count
-Comparison.Concession,"although, nevertheless, when",5
-Comparison.Contrast,"while, however, but, whereas, yet, in contrast, by comparison",29
-Contingency.Cause.Reason,because,40
-Contingency.Cause.Result,"thus, as a result",22
-EntRel,[],108
-Expansion.Alternative.Chosen alternative,instead,4
-Expansion.Conjunction,"and, also, in turn, additionally, furthermore, finally, moreover, in addition",87
-Expansion.Instantiation,"for instance, for example",4
-Expansion.Restatement,"much as, in particular, overall",108
-Temporal.Asynchronous.Precedence,"before, then, thereafter",4
-Temporal.Asynchronous.Succession,"after, once, previously",2
-Temporal.Synchrony,"when, as",12
+,count,conn
+EntRel,108,[]
+Expansion.Restatement,108,"['much as', 'in particular', 'overall']"
+Expansion.Conjunction,87,"['and', 'also', 'in turn', 'additionally', 'furthermore', 'finally', 'moreover', 'in addition']"
+Contingency.Cause.Reason,40,['because']
+Comparison.Contrast,29,"['while', 'however', 'but', 'whereas', 'yet', 'in contrast', 'by comparison']"
+Contingency.Cause.Result,22,"['thus', 'as a result']"
+Temporal.Synchrony,12,"['when', 'as']"
+Comparison.Concession,5,"['although', 'nevertheless', 'when']"
+Expansion.Alternative.Chosen alternative,4,['instead']
+Expansion.Instantiation,4,"['for instance', 'for example']"
+Temporal.Asynchronous.Precedence,4,"['before', 'then', 'thereafter']"
+Temporal.Asynchronous.Succession,2,"['after', 'once', 'previously']"

@@ -1,35 +1,35 @@
 ,count,sense
-additionally,1,Expansion.Conjunction
-after,1,Temporal.Asynchronous.Succession
-also,12,Expansion.Conjunction
-although,4,Comparison.Concession
 and,25,Expansion.Conjunction
-as,3,Temporal.Synchrony
-as a result,1,Contingency.Cause.Result
-because,3,Contingency.Cause.Reason
-before,1,Temporal.Asynchronous.Precedence
-but,6,Comparison.Contrast
-by comparison,1,Comparison.Contrast
-finally,4,Expansion.Conjunction
-for example,1,Expansion.Instantiation
-for instance,1,Expansion.Instantiation
-furthermore,6,Expansion.Conjunction
+also,12,Expansion.Conjunction
+when,11,Temporal.Synchrony
+while,10,Comparison.Contrast
 however,8,Comparison.Contrast
-in addition,3,Expansion.Conjunction
-in contrast,2,Comparison.Contrast
-in particular,1,Expansion.Restatement
-in turn,1,Expansion.Conjunction
+thus,7,Contingency.Cause.Result
+but,6,Comparison.Contrast
+furthermore,6,Expansion.Conjunction
 instead,5,Expansion.Alternative.Chosen alternative
+finally,4,Expansion.Conjunction
+although,4,Comparison.Concession
+in addition,3,Expansion.Conjunction
+as,3,Temporal.Synchrony
+because,3,Contingency.Cause.Reason
+then,3,Temporal.Asynchronous.Precedence
 moreover,2,Expansion.Conjunction
-much as,1,Expansion.Restatement
+in contrast,2,Comparison.Contrast
+whereas,2,Comparison.Contrast
+thereafter,1,Temporal.Asynchronous.Precedence
+previously,1,Temporal.Asynchronous.Succession
+overall,1,Expansion.Restatement
 nevertheless,1,Comparison.Concession
 once,1,Temporal.Asynchronous.Succession
-overall,1,Expansion.Restatement
-previously,1,Temporal.Asynchronous.Succession
-then,3,Temporal.Asynchronous.Precedence
-thereafter,1,Temporal.Asynchronous.Precedence
-thus,7,Contingency.Cause.Result
-when,11,Temporal.Synchrony
-whereas,2,Comparison.Contrast
-while,10,Comparison.Contrast
+additionally,1,Expansion.Conjunction
+much as,1,Expansion.Restatement
+in turn,1,Expansion.Conjunction
+in particular,1,Expansion.Restatement
+after,1,Temporal.Asynchronous.Succession
+for instance,1,Expansion.Instantiation
+for example,1,Expansion.Instantiation
+by comparison,1,Comparison.Contrast
+before,1,Temporal.Asynchronous.Precedence
+as a result,1,Contingency.Cause.Result
 yet,1,Comparison.Contrast
