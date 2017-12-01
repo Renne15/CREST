@@ -50,14 +50,14 @@ for moji in data_txt:
     elif moji != '\n':
         word += moji
 
-print("51 instead:",sentences[51])
-print("159 and:",sentences[159])
-print("261 when:",sentences[261])
-print("420 when:",sentences[420])
-print("519 when:",sentences[519])
-print("819 and:",sentences[819])
-print("821 while:",sentences[821])
-print("9438 finaly:",sentences[9438])
+# print("51 instead:",sentences[51])
+# print("159 and:",sentences[159])
+# print("261 when:",sentences[261])
+# print("420 when:",sentences[420])
+# print("519 when:",sentences[519])
+# print("819 and:",sentences[819])
+# print("821 while:",sentences[821])
+# print("9438 finaly:",sentences[9438])
 
 conn = {}
 sense = {}
