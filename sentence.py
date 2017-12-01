@@ -10,14 +10,14 @@ with open(filepath_json, 'r') as readjson:
 with open(filepath_txt, 'r') as readtxt:
     data_txt = readtxt.read()
 
-sentences = []
+sentence = []
 word = ''
 for moji in data_txt:
     if moji == ',':
         if word != '':
-            sentences.append(word)
+            sentence.append(word)
             word = ''
-        sentences.append(',')
+        sentence.append(',')
     elif moji == '.':
         if word == 'C':
             word += moji
@@ -25,74 +25,80 @@ for moji in data_txt:
             word += moji
         else:
             if word != '':
-                sentences.append(word)
+                sentence.append(word)
                 word = ''
-            sentences.append('.')
+            sentence.append('.')
     elif moji == ' ':
         if word != '':
-            sentences.append(word)
+            sentence.append(word)
             word = ''
     elif moji == '(':
         if word != '':
-            sentences.append(word)
+            sentence.append(word)
             word = ''
-        sentences.append('(')
+        sentence.append('(')
     elif moji == ')':
         if word != '':
-            sentences.append(word)
+            sentence.append(word)
             word = ''
-        sentences.append(')')
+        sentence.append(')')
     # elif moji == '/':
     #     if word != '':
-    #         sentences.append(word)
+    #         sentence.append(word)
     #         word = ''
-    #         sentences.append('/')
+    #         sentence.append('/')
     elif moji != '\n':
         word += moji
 
-# print("51 instead:",sentences[51])
-# print("159 and:",sentences[159])
-# print("261 when:",sentences[261])
-# print("420 when:",sentences[420])
-# print("519 when:",sentences[519])
-# print("819 and:",sentences[819])
-# print("821 while:",sentences[821])
-# print("9438 finaly:",sentences[9438])
+# print("51 instead:",sentence[51])
+# print("159 and:",sentence[159])
+# print("261 when:",sentence[261])
+# print("420 when:",sentence[420])
+# print("519 when:",sentence[519])
+# print("819 and:",sentence[819])
+# print("821 while:",sentence[821])
+# print("9428 and:",sentence[9428])
+#
+# print("9438 finaly:",sentence[9438])
 
 conn = {}
-sense = {}
-
 for line, value in data_json.items():
-    if "conn_name" not in value:
-        pass
-    elif value["conn_name"] not in conn:
-        conn[value["conn_name"]] = {}
-        conn[value["conn_name"]]["count"] = 1
-        conn[value["conn_name"]]["sense"] = value["Sense"][0]
-    elif value["conn_name"] in conn:
-        conn[value["conn_name"]]["count"] += 1
+    if value["Connective"]["TokenList"]:
+        conn[value["Connective"]["TokenList"][0]] = {}
+        conn[value["Connective"]["TokenList"][0]]["conn_name"] = value["conn_name"]
+        conn[value["Connective"]["TokenList"][0]]["sense"] = value["Sense"][0]
 
-    if value["Sense"][0] not in sense:
-        sense[value["Sense"][0]] = {}
-        sense[value["Sense"][0]]["count"] = 0
-        sense[value["Sense"][0]]["conn"] = []
-        if "conn_name" in value:
-            sense[value["Sense"][0]]["conn"].append(value["conn_name"])
-    elif value["Sense"][0] in sense:
-        sense[value["Sense"][0]]["count"] += 1
-        if "conn_name" in value:
-            if value["conn_name"] not in sense[value["Sense"][0]]["conn"]:
-                sense[value["Sense"][0]]["conn"].append(value["conn_name"])
+# for line, value in data_json.items():
+#     if "conn_name" not in value:
+#         pass
+#     else:
+#         conn[line] = {}
+#         conn[line]["conn_name"] = value["conn_name"]
+#         conn[line]["sense"] = value["Sense"][0]
+#         conn[line]["Connective"] = value["Connective"]["TokenList"][0]
 
-conn_df = pd.DataFrame(conn, index=["count","sense"])
-sense_df = pd.DataFrame(sense, index=["count","conn"])
-conn_df = conn_df.T
-sense_df = sense_df.T
-conn_df = conn_df.sort_values(by=["count"], ascending=False)
-sense_df = sense_df.sort_values(by=["count"], ascending=False)
-
-print(conn_df)
-print(sense_df)
-
-# conn_df.to_csv("data/conn.csv")
-# sense_df.to_csv("data/sense.csv")
+f = open("./data/sentence.html",'w')
+f.write("<!DOCTYPE HTML>\n")
+f.write("<html>\n")
+f.write("<head>\n")
+f.write("<title>CREST</title>\n")
+f.write("</head>\n")
+f.write("<body>\n")
+word_num = 0
+for i in range(20):
+    f.write("<p>")
+    while sentence[word_num] != '.':
+        if word_num in conn:
+            f.write("<font color=\"blue\">"+sentence[word_num]+"</font>")
+            f.write(" ")
+            word_num += 1
+        else:
+            f.write(sentence[word_num])
+            f.write(" ")
+            word_num += 1
+    f.write(sentence[word_num])
+    word_num += 1
+    f.write("</p>\n")
+f.write("</body\n")
+f.write("</html>\n")
+f.close()
