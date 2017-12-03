@@ -12,6 +12,7 @@ with open(filepath_txt, 'r') as readtxt:
 
 txt_lines = sum(1 for line in open(filepath_txt))
 
+### sentence[]内にwordを入れる ###
 sentence = []
 word = ''
 for moji in data_txt:
@@ -26,6 +27,10 @@ for moji in data_txt:
         elif word == 'B':
             word += moji
         elif word == 'A':
+            word += moji
+        elif word == 'e':
+            word += moji
+        elif word == 'e.g':
             word += moji
         else:
             if word != '':
@@ -46,11 +51,13 @@ for moji in data_txt:
             sentence.append(word)
             word = ''
         sentence.append(')')
-    # elif moji == '/':
-    #     if word != '':
-    #         sentence.append(word)
-    #         word = ''
-    #         sentence.append('/')
+    elif moji == '-':
+        if word == '1':
+            sentence.append(word)
+            sentence.append('-')
+            word = ''
+        else:
+            word += moji
     elif moji != '\n':
         word += moji
 
@@ -64,7 +71,7 @@ print("819 and:",sentence[819])
 print("821 while:",sentence[821])
 print("9428 and:",sentence[9428])
 
-print("9438 finaly:",sentence[9438])
+#print("9438 finaly:",sentence[9438])
 
 conn = {}
 Token_Arg1 = {}
@@ -74,20 +81,15 @@ for line, value in data_json.items():
         conn[value["Connective"]["TokenList"][0]] = {}
         conn[value["Connective"]["TokenList"][0]]["conn_name"] = value["conn_name"]
         conn[value["Connective"]["TokenList"][0]]["sense"] = value["Sense"][0]
+    if len(value["Connective"]["TokenList"]) == 2:
+        conn[value["Connective"]["TokenList"][1]] = {}
+        conn[value["Connective"]["TokenList"][1]]["conn_name"] = value["conn_name"]
+        conn[value["Connective"]["TokenList"][1]]["sense"] = value["Sense"][0]
     if "conn_name" in value:
         for arg1 in value["Arg1"]["TokenList"]:
             Token_Arg1[arg1] = value["Connective"]["TokenList"]
         for arg2 in value["Arg2"]["TokenList"]:
             Token_Arg2[arg2] = value["Connective"]["TokenList"]
-
-# for line, value in data_json.items():
-#     if "conn_name" not in value:
-#         pass
-#     else:
-#         conn[line] = {}
-#         conn[line]["conn_name"] = value["conn_name"]
-#         conn[line]["sense"] = value["Sense"][0]
-#         conn[line]["Connective"] = value["Connective"]["TokenList"][0]
 
 ### HTMLファイルとして書き出し ###
 f = open("./data/sentence.html",'w')
@@ -102,7 +104,7 @@ for i in range(txt_lines):
     f.write("<p>")
     while sentence[word_num] != '.':
         if word_num in conn:
-            f.write("<font color=\"blue\">"+sentence[word_num]+"</font>")
+            f.write("<font color=\"blue\"><strong>"+sentence[word_num]+"</strong></font>")
             f.write(" ")
             word_num += 1
         elif word_num in Token_Arg1:
