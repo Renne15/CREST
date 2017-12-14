@@ -58,6 +58,19 @@ for moji in data_txt:
             word = ''
         else:
             word += moji
+    ### cannot は can not にわけられる
+    elif moji == 'n':
+        if word == 'can':
+            sentence.append(word)
+            word = ''
+        word += moji
+    elif moji == '/':
+        if word == 'POP-1':
+            sentence.append(word)
+            sentence.append('/')
+            word = ''
+        else:
+            word += moji
     elif moji != '\n':
         word += moji
 
@@ -70,7 +83,6 @@ print("519 when:",sentence[519])
 print("819 and:",sentence[819])
 print("821 while:",sentence[821])
 print("9428 and:",sentence[9428])
-
 #print("9438 finaly:",sentence[9438])
 
 conn = {}
