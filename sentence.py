@@ -104,7 +104,8 @@ for i in range(txt_lines):
     f.write("<p>")
     while sentence[word_num] != '.':
         if word_num in conn:
-            f.write("<font color=\"blue\"><strong>"+sentence[word_num]+"</strong></font>")
+            color = "blue"
+            f.write("<font color=\"%s\"><strong title=\"%s\">" % (color,conn[word_num]["sense"]) +sentence[word_num]+"</strong></font>" )
             f.write(" ")
             word_num += 1
         elif word_num in Token_Arg1:
